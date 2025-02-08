@@ -95,6 +95,9 @@ main{
     }
 }
 @media screen and (max-width:600px) {
+        nav>h1{
+        font-size:18px
+    }
     main{
         padding: 10px 0 0 0;
     }
@@ -116,6 +119,9 @@ main{
     }
 }
 @media screen and (max-width:500px) {
+            nav>h1{
+        font-size:16px
+    }
     .intro p{
         font-size: 7px;
     }
@@ -128,6 +134,9 @@ main{
     }
 }
 @media screen and (max-width:400px) {
+            nav>h1{
+        font-size:14px
+    }
     .intro p{
         font-size: 6px;
     }
