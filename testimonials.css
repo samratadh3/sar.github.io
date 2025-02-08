@@ -1,0 +1,30 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 80vw;
+}
+section>p{
+    text-align: justify;
+}
+.det{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 60vw;
+}
+.det>div>h4{
+    font-weight: 300;
+    font-size: 18px;
+}
+.det>div>h4>span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.det>img{
+    width: 20vw;
+    border-radius: 50%;
+}

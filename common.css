@@ -1,0 +1,14 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 80vw;
+}
+section>p{
+    text-align: justify;
+}
+h1{
+    color:cyan;
+}
