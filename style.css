@@ -64,6 +64,9 @@ main{
         list-style-type: none;
         font-size: 14px;
     }
+    .intro h1{
+        font-size:20px;
+    }
     .intro p{
         font-size: 10px;
     }
