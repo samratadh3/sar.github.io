@@ -137,7 +137,9 @@ main{
     .intro p{
         font-size: 6px;
     }
-   
+           .intro h1{
+        font-size:14px;
+    }
     .contain h1{
         font-size: 12px;
     }
